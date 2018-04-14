@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<MenuBar>
+  <Menu>
+    <Name>游戏</Name>
+    <MenuItem><Name>开始游戏</Name><Activate>start</Activate></MenuItem>
+    <MenuItem><Name>重新游戏</Name><Activate>again</Activate></MenuItem>
+    <MenuItem><Name>暂停游戏</Name><Activate>pause</Activate></MenuItem>
+    <MenuItem><Name>读取游戏</Name><Activate>read</Activate></MenuItem>
+    <MenuItem><Name>保存游戏</Name><Activate>save</Activate></MenuItem>
+    <MenuItem><Name>退出游戏</Name><Activate>exit</Activate></MenuItem>
+  </Menu>
+  <Menu>
+    <Name>设置</Name>
+    <MenuItem><Name>游戏人数</Name><Activate>empty</Activate></MenuItem>
+    <MenuItem><Name>游戏难度</Name><Activate>empty</Activate></MenuItem>
+    <MenuItem><Name>游戏设置</Name><Activate>empty</Activate></MenuItem>    
+  </Menu>
+  <Menu>
+    <Name>地图</Name>
+    <MenuItem><Name>创建地图</Name><Activate>empty</Activate></MenuItem>
+    <MenuItem><Name>修改地图</Name><Activate>empty</Activate></MenuItem>
+    <MenuItem><Name>删除地图</Name><Activate>empty</Activate></MenuItem>    
+  </Menu>
+  <Menu>
+    <Name>关于</Name>
+    <MenuItem><Name>游戏帮助</Name><Activate>empty</Activate></MenuItem>
+    <MenuItem><Name>关于游戏</Name><Activate>empty</Activate></MenuItem>      
+  </Menu>
+</MenuBar>
